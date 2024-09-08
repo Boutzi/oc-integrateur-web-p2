@@ -1,6 +1,14 @@
-# DW-V3-P2
+# Project 2
 
-### GitHub
-[Suivi du rendu des projets](https://boutzi.github.io/openclassrooms/)  
+## Riding Cities
 
-[Suivi du code des projets](https://github.com/Boutzi/openclassrooms/tree/main/integrateur-web)  
+Getting Started with HTML
+
+## Installation
+
+### Clone the Repository
+```bash
+    git clone https://github.com/Boutzi/oc-integrateur-web-p2.git
+```
+### Start the project
+open the **index.html** file
